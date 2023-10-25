@@ -6,7 +6,7 @@ class App {
 
     void run(){
         System.out.println("==명업 앱 ==");
-        System.out.println("명령) ");
+        System.out.print("명령) ");
 
         Scanner scanner = new Scanner(System.in);
         String cmd =scanner.nextLine();
